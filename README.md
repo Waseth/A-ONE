@@ -20,26 +20,19 @@ I will be focusing on:
 
 ---
 
----
 
 ## WHAT I WORKED ON
 
--- I created a navbar that collapses on mobile and expands on medium sized devices and above
-
----
+- I created a navbar that collapses on mobile and expands on medium sized devices and above
 
 ---
 
 # Day 5 - 1st August 2025
 
----
-
 ## Challenges faced
 
 - Getting the hero section image to cover the full width of the screen on all devices
 - I had trouble mastering the breakpoint ranges for different devices especially,tablets and laptops
-
----
 
 ---
 
@@ -53,9 +46,7 @@ I will be focusing on:
 | **Small laptops only** | 992px (lg) → 1199.98px   | `@media (min-width: 992px) and (max-width: 1199.98px)` |
 | **Large phones only** | 576px (sm) → 767.98px    | `@media (min-width: 576px) and (max-width: 767.98px)` |
 
-- I also noticed that .98 is used and it is because
-
----
+- I also noticed that .98 is used and it is to avoid overlapping of pixels when switching from screen to another
 
 ---
 
