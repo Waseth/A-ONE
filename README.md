@@ -37,7 +37,7 @@ I will be focusing on:
 ---
 
 ## What I learned
-- I learned that when styling webpages you are not restricted to using bootstrap utility classes alone.You can also custom CSS to override some of the bootstrap stylings
+- I learned that when styling webpages you are not restricted to using bootstrap utility classes alone.You can also use custom CSS to override some of the bootstrap stylings
 - I also managed to master the breakpoint ranges for these devices:
 
 | Target Devices      | Breakpoint Range           | Media Query Example                                  |
@@ -46,7 +46,7 @@ I will be focusing on:
 | **Small laptops only** | 992px (lg) → 1199.98px   | `@media (min-width: 992px) and (max-width: 1199.98px)` |
 | **Large phones only** | 576px (sm) → 767.98px    | `@media (min-width: 576px) and (max-width: 767.98px)` |
 
-- I also noticed that .98 is used and it is to avoid overlapping of pixels when switching from screen to another
+- I also noticed that .98 is used and it is to avoid overlapping of pixels when switching from different screen sizes to another.
 
 ---
 
@@ -54,7 +54,7 @@ I will be focusing on:
 - I created a banner image whose color seems to have blended a bit with the primary color of the webpage
 - About section that explains what A1 is all about
 
-# Day 5 - 1st August 2025
+# Day 5 - 2nd August 2025
 
 ---
 
@@ -65,7 +65,7 @@ I will be focusing on:
 ---
 
 ## What I learned
-- How to use col-12,col-6 and col-4 to get the three cards to cover the full width on mobile screens,to ensure two cards above a centered one on tablet and having three in a row on laptop screens sizes
+- How to use col-12,col-6 and col-4 to get the three cards to cover the full width on mobile screens,to ensure two cards above a centered one on tablet and having three in a row on a laptop screen size
 
 ---
 
