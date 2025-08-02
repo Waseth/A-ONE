@@ -21,6 +21,12 @@ h1,h2,h3,h4,h5,h6{
     margin-top: 40px !important;
     padding-top: 10px;
     }
+.list{
+    width: max-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
 
 /* phone */
 @media screen and (max-width: 767.98px) {
@@ -43,11 +49,22 @@ h1,h2,h3,h4,h5,h6{
     #para{
         padding-bottom: 20px;
     }
+    #three-hundred{
+        padding-bottom: 20px;
+    }
+    #mb{
+        margin-top: -16px;
+    }
+    #int-2{
+        margin-bottom: -8px;
+    }
 }
 
 /* laptop */
 @media screen and (min-width:992px){
-
+    #three-hundred{
+        padding-bottom: 22px;
+    }
 }
 
 
