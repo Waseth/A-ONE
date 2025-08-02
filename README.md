@@ -21,7 +21,7 @@ I will be focusing on:
 ---
 
 
-## WHAT I WORKED ON
+## What I worked on
 
 - I created a navbar that collapses on mobile and expands on medium sized devices and above
 
@@ -50,6 +50,24 @@ I will be focusing on:
 
 ---
 
-## WHAT I WORKED ON
+## What I worked on
 - I created a banner image whose color seems to have blended a bit with the primary color of the webpage
 - About section that explains what A1 is all about
+
+# Day 5 - 1st August 2025
+
+---
+
+## Challenges faced
+- Getting the images to fit perfectly inside the cards
+- Mastering the use of col-12 on mobile screens,col-6 on tablet screens and col-4 on laptop screens
+
+---
+
+## What I learned
+- How to use col-12,col-6 and col-4 to get the three cards to cover the full width on mobile screens,to ensure two cards above a centered one on tablet and having three in a row on laptop screens sizes
+
+---
+
+## What I worked on
+- Completed the services section

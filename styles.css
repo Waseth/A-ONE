@@ -1,5 +1,4 @@
 body,html{
-    font-size: 1em;
     overflow-x: hidden;
 }
 :root{
@@ -8,7 +7,6 @@ body,html{
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-size: 1.5rem;
     font-family: var(--heading-font);
     color: #007bff;
 }
@@ -16,9 +14,14 @@ h1,h2,h3,h4,h5,h6{
     object-fit: contain;
 }
 #about{
-       border-radius: 10px;
+    border-radius: 10px;
     }
-    
+
+ #services{
+    margin-top: 40px !important;
+    padding-top: 10px;
+    }
+
 /* phone */
 @media screen and (max-width: 767.98px) {
     .navbar-nav {
@@ -31,6 +34,19 @@ h1,h2,h3,h4,h5,h6{
         display: none;
     }
 
+}
+/* tablet */
+@media screen and (min-width:768px) and (max-width:991.98px){
+    #int{
+        margin-bottom: -25px;
+    }
+    #para{
+        padding-bottom: 20px;
+    }
+}
+
+/* laptop */
+@media screen and (min-width:992px){
 
 }
 
