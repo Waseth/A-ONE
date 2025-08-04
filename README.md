@@ -77,3 +77,23 @@ I will be focusing on:
 
 # Day 6 - 4th August 2025
 
+---
+
+## Challenges faced
+- Centering the "Book now" button inside a div
+
+##  What I Learned
+
+### Centering Elements with Flexbox
+
+#### 1. Centering a Button Horizontally
+```html
+<div style="display: flex; justify-content: center;">
+  <button class="btn btn-primary">Centered Button</button>
+</div>
+
+---
+
+## What I worked on
+- Book now button
+- Footer
