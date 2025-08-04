@@ -72,3 +72,8 @@ I will be focusing on:
 ## What I worked on
 - Completed the services section
 - Completed the pricing section
+
+---
+
+# Day 6 - 4th August 2025
+

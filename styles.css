@@ -63,7 +63,10 @@ h1,h2,h3,h4,h5,h6{
 /* laptop */
 @media screen and (min-width:992px){
     #three-hundred{
-        padding-bottom: 22px;
+        padding-bottom: 24px;
+    }
+    #basic-wash-card{
+        padding-bottom: 24px;
     }
 }
 
