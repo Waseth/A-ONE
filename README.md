@@ -82,6 +82,10 @@ I will be focusing on:
 ## Challenges faced
 - Centering the "Book now" button inside a div
 
+## What I worked on
+- Book now button
+- Footer
+
 ##  What I Learned
 
 ### Centering Elements with Flexbox
@@ -94,6 +98,3 @@ I will be focusing on:
 
 ---
 
-## What I worked on
-- Book now button
-- Footer
