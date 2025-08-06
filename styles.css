@@ -1,5 +1,6 @@
 body,html{
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 :root{
     --primary-color :#007bff;
